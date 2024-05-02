@@ -1,0 +1,1 @@
+This is a simple web app containing a simple rock, paper, and scissors game. I plan on containerizing it later on as well. I will host in Azure and utilize Kubernetes.
