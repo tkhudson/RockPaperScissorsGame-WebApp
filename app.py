@@ -14,7 +14,6 @@ def play():
 
     computer_move = random.choice(moves)
     
-    # Determine the winner
     if user_move == computer_move:
         result = 'draw'
     elif (user_move == 'rock' and computer_move == 'scissors') or \
